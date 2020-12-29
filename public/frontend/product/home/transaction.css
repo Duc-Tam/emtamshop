@@ -1,0 +1,79 @@
+.account{
+    border: 1px solid #e3e3e3;
+    line-height: 50px;
+    font-size: 15px;
+    display: grid;
+    background-color: white;
+}
+.section-title{
+    margin-top: 15px;
+}
+.account a{
+    color: #666666;
+}
+.clearfix1{
+    display:flex;
+    border-bottom: 1px solid #e3e3e3;
+}
+.profile_img{
+    width: 50px;
+    height: 50px;
+    margin-right: 25px;
+    margin: 10px;
+}
+.profile{
+    line-height: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.list-info{
+    display: grid;
+    margin: 10px;
+}
+.account a:hover{
+    color:rgb(38, 38, 182);
+}
+.info-account{
+    border: 1px solid #e3e3e3;
+    font-size: 15px;
+    background-color: white;
+    width: 73%;
+    margin-left: 20px;
+    margin-bottom: 30px;
+
+}
+.create-new-account{
+    margin-bottom: 50px;
+}
+.acount-icon{
+    border-radius: 15px 15px 15px 15px;
+    background-color: orange;
+    width: 30px;
+    height: 30px;
+    padding: 9px;
+    color: white;
+}
+.book-icon{
+    border-radius: 15px 15px 15px 15px;
+    background-color: blue;
+    width: 30px;
+    height: 30px;
+    padding: 8px;
+    color: white;
+}
+.notice-icon{
+    border-radius: 15px 15px 15px 15px;
+    background-color:#ff5200;
+    width: 30px;
+    height: 30px;
+    padding: 8px;
+    color: white;
+}
+.password-icon{
+    border-radius: 15px 15px 15px 15px;
+    background-color: blue;
+    width: 30px;
+    height: 30px;
+    padding: 8px;
+    color: white;
+}

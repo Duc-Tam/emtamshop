@@ -1,0 +1,23 @@
+.product-image{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+.image-detail{
+    width: 120%;
+}
+.image{
+    width: 80%;
+}
+.container_image{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.product-image-slider{
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+}
+.image-slider-edit{
+    width: 30%;
+}
